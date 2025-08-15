@@ -27,7 +27,7 @@ Easily add, complete, and delete tasks — with **persistent storage** powered b
 ### **Installation**
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/youns-nibras/TODO-flutter-app
 cd to_do_app
 
 # Install dependencies
